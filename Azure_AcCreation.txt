@@ -1,0 +1,37 @@
+Steps to Create a Free Azure Cloud Account
+
+1) Go to the Azure website:
+    > Visit https://azure.microsoft.com in your browser.
+2) Start free account setup:
+    >On the homepage, click on the "Start free" button.
+3) Sign in with a Microsoft account:
+    >If you have a Microsoft account sign in with it.
+    >If you don't have a Microsoft account, click on "Create one!" to register for free.
+4) Enter your personal details:
+    >Country/Region
+    >First Name
+    >Middle Name
+    >Last Name
+    >Phone Number
+    >Verifying the number by entering the code sent to your phone.
+    >CompanyID
+    >Address
+    >City
+    >Country
+    >Postel Code
+      >We need to check mark these three:
+        >I agree to the customer agreement and privacy agreement.
+        >I would like information, tips and offers about Azure, including Azure Newsletter, Pricing updates, and other Microsoft products and services.
+        >I would like Microsoft to share my information with select partners so i can receive information about their products and services.
+    >Then we need to click on Next icon
+5)Credit card verification:
+    >Cardholder Name
+    >Card Number
+    >Expires
+        >Month and Year
+    >CVV
+        >We neet to verify the details by providing the OTP
+6)Once the account is created, you'll be redirected to the Azure portal.
+    >Start Using Azure
+    >Explore the services available within your free tier, such as Virtual Machines, Azure App Services, Storage, and more.
+
